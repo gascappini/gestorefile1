@@ -124,18 +124,11 @@ public class Gestore {
     }
 
 
-
-
-
-
-
     //cartella drawable, conterrà immagini con la corretta definizione in base al tipo di dispositivo
     //cartella layout, conterrà tutti gli xml
     //cartella values, contiene altri file xml in particolare il file strings.xml, color.xml
     //cartella values per creare stringhe particolari
     //
-
-
 
 
 
